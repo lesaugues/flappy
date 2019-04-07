@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flappy</string>
+    <string name="tap_detection">Détection en tapant</string>
+    <string name="voice_detection">Détection par la voix</string>
+    <string name="shake_detection">Détection en secouant le téléphone</string>
+    <string name="get_name">Rentrer le nom du joueur</string>
+    <string name="player_default_name">Inconnu</string>
+    <string name="valider">Valider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lvl_facile">Facile</string>
+    <string name="lvl_normal">Normal</string>
+    <string name="lvl_difficile">Difficile</string>
+    <string name="choisissez_votre_niveau">Choisissez votre niveau</string>
+    <string name="lvl_impossible">Impossible</string>
+</resources>
